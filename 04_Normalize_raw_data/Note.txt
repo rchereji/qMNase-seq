@@ -1,0 +1,5 @@
+Note:
+
+The scripts from this folder use the function "fastsmooth.m", which was downloaded from:
+https://www.mathworks.com/matlabcentral/fileexchange/19998-fast-smoothing-function
+(Author: Thomas C. O'Haver)
