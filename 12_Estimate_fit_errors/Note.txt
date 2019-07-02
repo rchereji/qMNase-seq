@@ -1,0 +1,13 @@
+Note:
+
+The script from this folder uses the function "parfor_progress.m", which was downloaded from:
+https://www.mathworks.com/matlabcentral/fileexchange/32101-progress-monitor-progress-bar-that-works-with-parfor
+(Author: Jeremy Scheff)
+
+and the function "showTimeToCompletion.m", which was downloaded from:
+https://github.com/JacobD10/SoundZone_Tools
+(Author: Jacob Donley)
+
+and the GRAMM package, which was downloaded from here:
+https://github.com/piermorel/gramm
+(Author: Pierre Morel)

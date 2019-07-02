@@ -1,0 +1,6 @@
+Note:
+
+Due to size limitations on GitHub, the input file containing all the transcription factor binding site annotations (ChIPAtlas_S2cells_TFs.bed; >500MB) is not provided in this folder. The large bed file is available on request. Please contact Razvan Chereji (razvan.chereji -at- nih.gov) if you would like to obtain this file.
+
+The annotations have been downloaded from ChIP-Atlas (https://chip-atlas.org).
+
